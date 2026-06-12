@@ -6,7 +6,7 @@ eng_rus_dict = {
     "Dog": "Собака",
     "Book": "Книга",
     "Water": "Вода",
-    "Friend": "Друг",
+    "Friend": "Дуг",
     "Sun": "Солнце",
     "House": "Дом",
     "Food": "Еда"
